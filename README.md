@@ -1,4 +1,4 @@
-# Historical Places in India 🏰🇮🇳
+# Historical Places in India
 
 This project is a simple web-based application that explores and presents detailed information about the most significant historical places in India. It highlights the history, architecture, cultural importance, and tourism value of famous monuments.  
 
